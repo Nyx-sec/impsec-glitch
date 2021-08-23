@@ -1,8 +1,7 @@
 👋 Hi, I’m @ZeroCode357
 
 The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.
-
--William Arthur Ward
+    -William Arthur Ward
 
 
 I always pictured myself as a bit of a loner scientist. However, a spark was ignited within after volunteering at my local elementary school.
@@ -20,8 +19,7 @@ Scouring the web for new programming languages or new tips or tricks for those I
 
 I'll end this little biography as I started it, with a quote; a quote that describes both my practical modis operandi and my overall educational philosophy:
 
-I hear and I forget. I see and I remember. I do and I understand.
-
--Confucius
+I hear and I forget. I see and I remember. I do and I understand.   
+    -Confucius
 
 📫 How to reach me: ZeroCode357@gmail.com
