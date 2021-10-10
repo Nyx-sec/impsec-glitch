@@ -1,7 +1,8 @@
 👋 Hi, I’m @impsec-glitch
 
-The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.
--William Arthur Ward
+> The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.
+>
+> --<cite>William Arthur Ward</cite>
 
 I always pictured myself as a bit of a loner scientist. However, a spark was ignited within after volunteering at my local elementary school. Through tutoring and volunteering, that I found that I receive great satisfaction at educating young minds. Teaching, and learning, has become a passion of mine, and with a Bachelor's of Science in Physics with a minor in Mathematics from Georgia Institute of Technology, I have so much knowledge to pass on to, and provide inspiration for, our future generations. 
 
@@ -11,9 +12,8 @@ I enjoy finding and quickly learning new skills and programming languages, inclu
 
 As is evident, I am a person of many hats. So, I'll end this little biography as I started it, with a quote; a quote that describes both my practical modis operandi and my overall philosophy:
 
-I hear and I forget. I see and I remember. I do and I understand.
--Confucius
-![image](https://user-images.githubusercontent.com/79282276/136706322-9638d0a2-4afe-4759-8a17-c22476778e38.png)
-
+> I hear and I forget. I see and I remember. I do and I understand.
+>
+> --<cite>Confucius</cite>
 
 📫 How to reach me: ZeroCode357@gmail.com
